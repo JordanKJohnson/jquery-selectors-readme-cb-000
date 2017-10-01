@@ -7,3 +7,8 @@ function firstListItem(){
   var divs = $("ul li:first-child");
   return divs;
 }
+
+function ninjaBabySelector(){
+  var divs = $("#ninja-Baby");
+  return divs;
+}
