@@ -9,6 +9,6 @@ function firstListItem(){
 }
 
 function ninjaBabySelector(){
-  var divs = $("#ninja-baby");
+  var divs = $("#baby-ninja");
   return divs;
 }
