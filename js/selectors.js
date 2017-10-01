@@ -3,6 +3,11 @@ function divSelector(){
   return divs;
 }
 
+function divSelector(){
+  var para = $("p");
+  return para;
+}
+
 function firstListItem(){
   var divs = $("ul li:first-child");
   return divs;
