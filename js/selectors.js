@@ -3,7 +3,7 @@ function divSelector(){
   return divs;
 }
 
-function divSelector(){
+function paragraphSelector(){
   var para = $("p");
   return para;
 }
