@@ -14,11 +14,11 @@ function lastImageSelector(){
 }
 
 function firstListItem(){
-  var divs = $("ul li:first-child");
-  return divs;
+  var fl = $("ul li:first-child");
+  return fl;
 }
 
 function ninjaBabySelector(){
-  var divs = $("#baby-ninja");
-  return divs;
+  var baby = $("#baby-ninja");
+  return baby;
 }
