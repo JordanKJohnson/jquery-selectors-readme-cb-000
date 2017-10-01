@@ -1,4 +1,4 @@
 function divSelector(){
-  var divs = $(".div");
+  var divs = $("div");
   return divs;
 }
