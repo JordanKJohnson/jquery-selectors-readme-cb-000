@@ -4,6 +4,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  var divs = $(".pics");
+  var divs = $("ul li:first-child");
   return divs;
 }
