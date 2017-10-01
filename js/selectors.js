@@ -1,1 +1,4 @@
-// declare your functions here...
+function divSelector(){
+  var divs = $("div");
+  return divs;
+}
