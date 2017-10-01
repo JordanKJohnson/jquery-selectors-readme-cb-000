@@ -8,6 +8,11 @@ function paragraphSelector(){
   return para;
 }
 
+function lastImageSelector(){
+  var img = $("img");
+  return img;
+}
+
 function firstListItem(){
   var divs = $("ul li:first-child");
   return divs;
