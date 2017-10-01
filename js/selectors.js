@@ -9,7 +9,7 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  var img = $("img");
+  var img = $("img:last");
   return img;
 }
 
